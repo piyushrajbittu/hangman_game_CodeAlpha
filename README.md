@@ -23,5 +23,7 @@ The player guesses a word one letter at a time.
 3. Run:
    python hangman.py
 
+▶️ How to Run Clone the repository: git clone https://github.com/piyushrajbittu/hangman_game_CodeAlpha.git
+
 ## Author
 Piyush Raj
